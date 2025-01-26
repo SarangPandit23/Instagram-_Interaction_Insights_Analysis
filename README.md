@@ -52,7 +52,9 @@ Technologies Used
 
 ![image](https://github.com/user-attachments/assets/66caaaf6-cfda-4b40-ad32-3134900e775c)
 
+
 - CLEAN THE DATA
+
 ![image](https://github.com/user-attachments/assets/cd25a83b-7664-4f51-9de5-77e81feb45b6)
 
 ![image](https://github.com/user-attachments/assets/f320c47d-652c-468b-8476-4bb426660ef9)
@@ -75,6 +77,26 @@ CALCULATIONG ZSCORE
 ![image](https://github.com/user-attachments/assets/d5d87c50-4634-42d9-bd24-52f61848525b)
 
 - REGRESSION
+
+![image](https://github.com/user-attachments/assets/a8203557-1bfd-42df-bfa6-dcd3790d3576)
+
+![image](https://github.com/user-attachments/assets/335b9645-8353-4a63-83da-e639cfd2d938)
+
+![image](https://github.com/user-attachments/assets/84a0ecec-9de5-4be0-bb63-441183a3a9a3)
+
+- Regression Coefficients with Confidence Intervals
+
+![image](https://github.com/user-attachments/assets/f7fd77f8-f2d9-460e-b82a-81f5a390a4cd)
+
+![image](https://github.com/user-attachments/assets/b466c159-46dd-4781-88fc-474dd351b1ca)
+
+![image](https://github.com/user-attachments/assets/fb81f29e-b092-4e3d-8186-d40fb495789d)
+
+![image](https://github.com/user-attachments/assets/e0d0162f-5a2d-4882-92e2-102816e027b4)
+
+
+
+
 
 
 
