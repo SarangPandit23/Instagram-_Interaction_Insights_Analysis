@@ -40,4 +40,10 @@ Technologies Used
 - Python
 - Linear Regression Modeling (OLS)
 
+  This cell demonstrates a specific analysis step or process
+  
 
+
+
+
+![Screenshot 2025-01-26 131520](https://github.com/user-attachments/assets/1713cbb5-7ade-4513-a962-ffee48eac333)
